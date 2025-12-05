@@ -29,9 +29,9 @@ PHP 8+
 
 MySQL
 
-tymon/jwt-auth
+jwt-auth
 
-Laravel Storage (local or cloud-ready)
+Laravel Storage (local)
 
 Postman (API testing)
 
